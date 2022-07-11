@@ -18,5 +18,6 @@ nbbuild/
 dist/
 nbdist/
 target/
+logs/
 nbactions.xml
 nb-configuration.xml
